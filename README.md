@@ -4,6 +4,8 @@
 
 - Cursando Desenvolvimento de Sistemas pelo SENAI 🎓.
 
+<br>
+
 
 ![Mierzwagi GitHub stats](https://github-readme-stats.vercel.app/api?username=mierzwagi&show_icons=true&theme=dark)
 
